@@ -1,0 +1,3 @@
+this is some text that I am writing into this file
+this is a change I am making on my desktop to my local copy
+
